@@ -1,10 +1,7 @@
 //app/pages/Index.tsx
 "use client";
 
-import Grid2 from "@mui/material/Unstable_Grid2";
-import TopNavbar from "@/app/components/TopNavbar/TopNavbar";
-import Navbar from "@/app/components/Navbar/Navbar";
-import Content from "@/app/components/Content";
+
 
 export default function Index() {
 
